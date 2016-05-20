@@ -21,8 +21,8 @@
 ##測試版本
 
 * 預覽: YOUTUBE 影片 (未來提供)
-* 版本: 0.1B
-* 下載: https://github.com/josh-hsu/MU774/blob/master/Beta/MU774_release_v0.1_beta.apk?raw=true
+* 版本: 0.2B
+* 下載: https://github.com/josh-hsu/MU774/blob/master/Beta/MU774_release_v0.2_beta.apk?raw=true
 
 ##穩定版本
 
